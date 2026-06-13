@@ -2,7 +2,7 @@
 
 **Senior Information Security Engineer | Cloud Security Consultant**
 
-A specialisst security professional dedicated to bridging the gap between rigorous information security standards and the agility of cloud-native ecosystems. Currently, I serve as a Cloud Security Consultant at **Google Cloud (Professional Services)**, where I architect secure, resilient, and scalable infrastructure for large-scale organizations.
+A specialist security professional dedicated to bridging the gap between rigorous information security standards and the agility of cloud-native ecosystems. Currently, I serve as a Cloud Security Consultant at **Google Cloud (Professional Services)**, where I architect secure, resilient, and scalable infrastructure for large-scale organizations.
 
 My engineering philosophy centers on **shifting security left**, automating governance, and building robust defense-in-depth strategies for modern environments, including the secure adoption of Artificial Intelligence.
 
