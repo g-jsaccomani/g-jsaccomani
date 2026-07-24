@@ -18,6 +18,7 @@ My engineering philosophy centers on **shifting security left**, automating gove
 
 ## Public Key Projects (A growing collection of my work in progress. More updates coming soon.(
 
+*   **[ai-spr_agentic](https://github.com/g-jsaccomani/ai-spr_agentic):** This repository contains the infrastructure and logical code to deploy an Intelligent Co-pilot Agent specialized in conducting the AI Security Posture Review (AI-SPR) in Google Cloud environments
 *   **[gkesecurity](https://github.com/g-jsaccomani/gkesecurity):** Focused on hardening strategies, security benchmarks, and best practices for GKE environments.
 *   **[gke-wiz-secops-blueprint](https://github.com/g-jsaccomani/gke-wiz-secops-blueprint):** Security architecture blueprints designed for visibility and rapid incident response in containerized environments.
 
