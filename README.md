@@ -16,11 +16,6 @@ My engineering philosophy centers on **shifting security left**, automating gove
 *   **DevSecOps & Automation:** Infrastructure as Code (Terraform), Python, CI/CD security integration.
 *   **Compliance & Architecture:** Security posture management, Zero Trust architecture, Incident Response.
 
-## Public Key Projects (A growing collection of my work in progress. More updates coming soon.(
-
-*   **[gkesecurity](https://github.com/g-jsaccomani/gkesecurity):** Focused on hardening strategies, security benchmarks, and best practices for GKE environments.
-*   **[gke-wiz-secops-blueprint](https://github.com/g-jsaccomani/gke-wiz-secops-blueprint):** Security architecture blueprints designed for visibility and rapid incident response in containerized environments.
-
 ## Let's Connect
 
 *   **LinkedIn:** [linkedin.com/in/jsaccomani](https://linkedin.com/in/jsaccomani)
