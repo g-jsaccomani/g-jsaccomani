@@ -1,25 +1,59 @@
-# Hi i'm Joabson Saccomani, or just SACCOMANI!
+# Hello, I’m Joabson Saccomani! But, you can call me **SACCOMANI**
 
-**Senior Information Security Engineer | Cloud Security Consultant**
+### **Cloud Security Consultant at PSO LatAm AI Infra & Sec Practice**
 
-A specialist security professional dedicated to bridging the gap between rigorous information security standards and the agility of cloud-native ecosystems. Currently, I serve as a Cloud Security Consultant at **Google Cloud (Professional Services)**, where I architect secure, resilient, and scalable infrastructure for large-scale organizations.
+If you bump into me around the office (physically or virtually), I’m likely deep in a Cloud Security challenge. My mission is to ensure the cloud remains a secure playground where innovation can thrive without friction.
 
-My engineering philosophy centers on **shifting security left**, automating governance, and building robust defense-in-depth strategies for modern environments, including the secure adoption of Artificial Intelligence.
+I don’t just flag risks, I’m the person who enjoys rolling up my sleeves to help build the solution. I believe security is the bedrock of innovation, and right now, my focus is locked on bringing my best efforts to unbox all AI & Cloud Security agentic automated!
 
 ---
 
-## Tech Stack & Expertise
+## Where I Make It Happen
 
-*   **Cloud Security:** GCP (Google Cloud Platform) specialist, CSPM, Cloud Governance.
-*   **AI Security:** Securing AI/ML pipelines, LLM security benchmarks, and threat modeling for GenAI implementations.
-*   **Container Security:** Kubernetes (GKE) Hardening, Network Policies, Workload Identity.
-*   **DevSecOps & Automation:** Infrastructure as Code (Terraform), Python, CI/CD security integration.
-*   **Compliance & Architecture:** Security posture management, Zero Trust architecture, Incident Response.
+My "toolkit" is focused on resilience and end-to-end visibility:
+
+* **AI Security & Strategy:** Specializing in AI-SPR and scaling robust defenses for the next wave of generative AI.
+* **Core Security:** Deep expertise in Wiz, Advanced API Security, Model Armor, CSPM, GKE Security, GVCE Security, and GCS Hardening.
+* **The Fundamentals:** IAM and Logs & Monitoring (the heart of everything!).
+* **Code:** I love documenting solutions and creating assets that make daily life easier.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wiz-FF5722?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+</p>
+
+---
+
+## Finding Purpose Beyond the Cloud
+
+I believe impact goes far beyond the code. That’s why I invest time in the communities that give our environment meaning:
+
+* **Leading Christian Googlers Brasil:** I have the honor of leading this group, fostering a space for support, shared values, and connection among us here in Brazil.
+* **Learning Ambassadors:** Knowledge only truly comes alive when it’s shared. I serve as an ambassador to cultivate a culture of continuous learning, if you need a study path or a hand with AI concepts, count me in!
+
+---
+
+## Off the Clock: Cooking, Music, and Great Conversations
+
+If you want to pull me away from Cloud Security mode, just bring up one of these:
+
+* **Gastronomy:** I’m a cook in my spare time and love chatting about techniques, ingredients, or the latest "kitchen experiment."
+* **Music:** There is always a playlist running in the background.
+* **Technology:** I’m passionate about discussing the future of AI and how we can use it ethically and securely.
+
+---
 
 ## Let's Connect
 
-*   **LinkedIn:** [linkedin.com/in/jsaccomani](https://linkedin.com/in/jsaccomani)
-*   **Focus:** Passionate about cloud-native security, container hardening, and the emerging field of AI security governance.
+* **LinkedIn:** [linkedin.com/in/jsaccomani](https://linkedin.com/in/jsaccomani)
+
+Let’s connect! Whether you want to talk about AI security, the Christian Googlers projects, or just swap a new recipe, my door is always open.
 
 ---
-*Open to discussions regarding cloud-native architecture, DevSecOps, and securing the next generation of AI-driven workloads.*
+<p align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=g-jsaccomani&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-jsaccomani&layout=compact&theme=radical" />
+</p>
