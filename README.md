@@ -11,8 +11,8 @@ My engineering philosophy centers on **shifting security left**, automating gove
 ## Tech Stack & Expertise
 
 *   **Cloud Security:** GCP (Google Cloud Platform) specialist, CSPM, Cloud Governance.
-*   **Container Security:** Kubernetes (GKE) Hardening, Network Policies, Workload Identity.
 *   **AI Security:** Securing AI/ML pipelines, LLM security benchmarks, and threat modeling for GenAI implementations.
+*   **Container Security:** Kubernetes (GKE) Hardening, Network Policies, Workload Identity.
 *   **DevSecOps & Automation:** Infrastructure as Code (Terraform), Python, CI/CD security integration.
 *   **Compliance & Architecture:** Security posture management, Zero Trust architecture, Incident Response.
 
