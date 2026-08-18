@@ -24,7 +24,6 @@ My "toolkit" is focused on resilience and end-to-end visibility:
   <img src="https://img.shields.io/badge/Wiz-FF5722?style=for-the-badge&logo=security&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud_Security-000000?style=for-the-badge&logo=letsencrypt&logoColor=white" />
   <img src="https://img.shields.io/badge/AI_Security-2E7D32?style=for-the-badge&logo=artificialintelligence&logoColor=white" />
-  <img src="https://img.shields.io/badge/IAM-FF6F00?style=for-the-badge&logo=keycloak&logoColor=white" />
 </p>
 
 ---
