@@ -55,10 +55,6 @@ If you want to pull me away from Cloud Security mode, just bring up one of these
 
 * **LinkedIn:** [linkedin.com/in/jsaccomani](https://linkedin.com/in/jsaccomani)
 
-Let’s connect! Whether you want to talk about AI security, the Christian Googlers projects, or just swap a new recipe, my door is always open.
+Whether you want to talk about AI, Security or just swap a new recipe, my door is always open.
 
 ---
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=g-jsaccomani&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-jsaccomani&layout=compact&theme=radical" />
-</p>
