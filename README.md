@@ -19,10 +19,12 @@ My "toolkit" is focused on resilience and end-to-end visibility:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Wiz-FF5722?style=for-the-badge&logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud_Security-000000?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Security-2E7D32?style=for-the-badge&logo=artificialintelligence&logoColor=white" />
+  <img src="https://img.shields.io/badge/IAM-FF6F00?style=for-the-badge&logo=keycloak&logoColor=white" />
 </p>
 
 ---
