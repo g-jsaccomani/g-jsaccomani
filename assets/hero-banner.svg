@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="148" viewBox="0 0 840 148" role="img" aria-label="Joabson Saccomani - Cloud &amp; AI Security Consultant">
+  <title>Joabson Saccomani — Cloud &amp; AI Security Consultant</title>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="55%" stop-color="#111C33"/>
+      <stop offset="100%" stop-color="#0F2540"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4285F4"/>
+      <stop offset="35%" stop-color="#34A853"/>
+      <stop offset="70%" stop-color="#FBBC04"/>
+      <stop offset="100%" stop-color="#EA4335"/>
+    </linearGradient>
+  </defs>
+  <rect width="840" height="148" rx="12" fill="url(#bg)"/>
+  <rect width="840" height="4" rx="2" fill="url(#accent)"/>
+  <circle cx="770" cy="40" r="68" fill="#4285F4" fill-opacity="0.08"/>
+  <circle cx="810" cy="115" r="52" fill="#34A853" fill-opacity="0.08"/>
+  <rect x="28" y="30" width="6" height="88" rx="3" fill="#4285F4"/>
+  <text x="52" y="64" fill="#FFFFFF" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="28" font-weight="bold">JOABSON SACCOMANI</text>
+  <text x="410" y="64" fill="#60A5FA" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="18" font-weight="bold">· SACCOMANI</text>
+  <text x="52" y="94" fill="#CBD5E1" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="14" font-weight="bold">Cloud Security Consultant · AI Infrastructure &amp; Security Practice</text>
+  <text x="52" y="118" fill="#94A3B8" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="12">Agentic AI Security · Zero-Trust Architecture · Post-Quantum Readiness · Cloud Hardening</text>
+</svg>
