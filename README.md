@@ -1,24 +1,50 @@
-# Hi, I’m Joabson Saccomani — **SACCOMANI**
+<p align="center">
+  <img src="./assets/hero-banner.svg" alt="Joabson Saccomani — Cloud Security Consultant" width="100%" />
+</p>
 
-### Cloud Security Consultant · AI Infrastructure & Security Practice
-
-I help organizations turn cloud security into an enabler for innovation — not a bottleneck. Beyond identifying risks, I roll up my sleeves to build practical, automated, and **agentic AI security** solutions at scale.
+I help organizations turn cloud security into an enabler for innovation — not a bottleneck. Beyond flagging risks, I roll up my sleeves to design and build practical, automated, and **agentic AI security** solutions at enterprise scale.
 
 <p align="center">
-  <img src="./assets/badge-google-cloud.svg" alt="Google Cloud" />
-  <img src="./assets/badge-ai-security.svg" alt="AI Security" />
-  <img src="./assets/badge-cloud-security.svg" alt="Cloud Security" />
-  <img src="./assets/badge-gke-security.svg" alt="GKE Security" />
-  <img src="./assets/badge-api-security.svg" alt="API Security" />
-  <img src="./assets/badge-secops.svg" alt="SecOps" />
+  <img src="./assets/portfolio-metrics.svg" alt="Security Portfolio Highlights" width="100%" />
 </p>
 
 ---
 
-## Core Focus
+## Tech Stack & Security Toolkit
 
-* **AI & Agentic Security:** AI-SPR, Model Armor guardrails, and multi-agent posture automation (Google ADK & Gemini).
-* **Cloud Architecture & Hardening:** IAM & Least Privilege, VPC/Zero-Trust Networking, GKE, GCVE, Apigee/WAAP, Cloud Armor, and SecOps.
+<p align="center">
+  <img src="./assets/badge-google-cloud.svg" alt="Google Cloud" />
+  <img src="./assets/badge-gemini.svg" alt="Gemini Pro" />
+  <img src="./assets/badge-google-adk.svg" alt="Google ADK" />
+  <img src="./assets/badge-ai-security.svg" alt="AI Security" />
+  <img src="./assets/badge-model-armor.svg" alt="Model Armor" />
+  <img src="./assets/badge-cloud-security.svg" alt="Cloud Security" />
+</p>
+<p align="center">
+  <img src="./assets/badge-gke-security.svg" alt="GKE Security" />
+  <img src="./assets/badge-vpc-zerotrust.svg" alt="VPC &amp; Zero Trust" />
+  <img src="./assets/badge-iam.svg" alt="IAM &amp; Least Privilege" />
+  <img src="./assets/badge-api-security.svg" alt="API Security" />
+  <img src="./assets/badge-cloud-armor.svg" alt="Cloud Armor" />
+  <img src="./assets/badge-secops.svg" alt="SecOps &amp; SIEM" />
+</p>
+<p align="center">
+  <img src="./assets/badge-pqc.svg" alt="Post-Quantum (PQC)" />
+  <img src="./assets/badge-wiz.svg" alt="Wiz" />
+  <img src="./assets/badge-terraform.svg" alt="Terraform" />
+  <img src="./assets/badge-python.svg" alt="Python" />
+  <img src="./assets/badge-typescript.svg" alt="TypeScript" />
+  <img src="./assets/badge-devsecops.svg" alt="DevSecOps" />
+</p>
+
+---
+
+## Core Security Pillars
+
+* **Agentic AI Security Automation:** Building multi-agent Google ADK & Gemini Pro platforms that automate posture assessments, live telemetry collection, and executive reporting.
+* **Zero-Trust Cloud Architecture:** Hardening IAM (PAM JIT, WIF, PAB/CEL), VPC Service Controls, Cloud NGFW, GKE, and GCVE at enterprise scale.
+* **AI & API Runtime Defense:** Designing AI-SPR frameworks, Model Armor guardrails, Apigee WAAP, Cloud Armor WAF, and DLP-as-Code pipelines.
+* **Quantum & Compliance Readiness:** Driving Post-Quantum Cryptography (PQC / CBOM) assessments, ISO/IEC 27001:2022 evidence readiness, and threat-informed SecOps.
 
 ---
 
@@ -54,17 +80,36 @@ I help organizations turn cloud security into an enabler for innovation — not 
 
 ---
 
+## Frameworks & Standards
+
+<p align="center">
+  <img src="./assets/fw-google-saif.svg" alt="Google SAIF" />
+  <img src="./assets/fw-nist-ai-rmf.svg" alt="NIST AI RMF" />
+  <img src="./assets/fw-nist-csf.svg" alt="NIST CSF 2.0" />
+  <img src="./assets/fw-iso-27001.svg" alt="ISO/IEC 27001" />
+  <img src="./assets/fw-cis.svg" alt="CIS Benchmarks" />
+  <img src="./assets/fw-mitre.svg" alt="MITRE ATT&amp;CK / ATLAS" />
+  <img src="./assets/fw-owasp.svg" alt="OWASP Top 10" />
+  <img src="./assets/fw-pci-dss.svg" alt="PCI-DSS v4.0" />
+</p>
+
+---
+
 ## Beyond the Code
 
-* **Community:** Leading **Christian Googlers Brasil** and serving as a **Learning Ambassador** helping teams ramp up on Cloud & AI.
-* **Off the Clock:** Amateur cook experimenting in the kitchen, always with a good playlist running in the background.
+* **Leading Christian Googlers Brasil:** Fostering community, support, and shared values across Brazil.
+* **Learning Ambassadors:** Mentoring teams and sharing study paths across Cloud Security and Generative AI.
+* **Off the Clock:** Amateur cook experimenting with new recipes in the kitchen, always with a great playlist running in the background.
 
 ---
 
 ## Let’s Connect
 
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/jsaccomani"><img src="./assets/badge-linkedin.svg" alt="LinkedIn" /></a>
+  <a href="https://github.com/g-jsaccomani"><img src="./assets/badge-github.svg" alt="GitHub" /></a>
 </p>
 
-Always open to talking AI, Cloud Security, or swapping a great recipe.
+<p align="center">
+  Always open to talking AI, Cloud Security, or swapping a great recipe.
+</p>
