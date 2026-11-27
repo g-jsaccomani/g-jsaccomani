@@ -5,12 +5,12 @@
 I help organizations turn cloud security into an enabler for innovation — not a bottleneck. Beyond identifying risks, I roll up my sleeves to build practical, automated, and **agentic AI security** solutions at scale.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Security-2E7D32?style=for-the-badge&logo=artificialintelligence&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud_Security-000000?style=for-the-badge&logo=letsencrypt&logoColor=white" />
-  <img src="https://img.shields.io/badge/GKE_Security-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/API_Security-FF5722?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/SecOps-00ACC1?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+  <img src="./assets/badge-google-cloud.svg" alt="Google Cloud" />
+  <img src="./assets/badge-ai-security.svg" alt="AI Security" />
+  <img src="./assets/badge-cloud-security.svg" alt="Cloud Security" />
+  <img src="./assets/badge-gke-security.svg" alt="GKE Security" />
+  <img src="./assets/badge-api-security.svg" alt="API Security" />
+  <img src="./assets/badge-secops.svg" alt="SecOps" />
 </p>
 
 ---
@@ -24,8 +24,8 @@ I help organizations turn cloud security into an enabler for innovation — not 
 
 ## Projects & Security Portfolio
 
-> ![Private Repositories](https://img.shields.io/badge/Repositories-Private-4A5568?style=flat-square&logo=github&logoColor=white)
-> All project repositories below are currently **private**. Reach out on [LinkedIn](https://linkedin.com/in/jsaccomani) for architecture discussions or live demos.
+> [!NOTE]
+> All project repositories listed below are currently **private**. Reach out on [LinkedIn](https://linkedin.com/in/jsaccomani) for architecture discussions or live demos.
 
 ### Agentic AI Security Platforms
 
@@ -63,6 +63,8 @@ I help organizations turn cloud security into an enabler for innovation — not 
 
 ## Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jsaccomani)
+<p>
+  <a href="https://linkedin.com/in/jsaccomani"><img src="./assets/badge-linkedin.svg" alt="LinkedIn" /></a>
+</p>
 
 Always open to talking AI, Cloud Security, or swapping a great recipe.
